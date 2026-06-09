@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./banner.svg" alt="SUPCON — Industrial automation, reimagined." width="100%" />
+  <img src="./banner.png" alt="THE PROCESS LAB — Industrial automation, reimagined." width="100%" />
 </div>
 
 <br/>
