@@ -6,7 +6,7 @@
 
 <div align="center">
 
-R&amp;D at [SUPCON](https://global.supcon.com).
+Research Lab at [SUPCON](https://global.supcon.com).
 
 Hangzhou · Singapore · [hr@global.supcon.com](mailto:hr@global.supcon.com)
 
